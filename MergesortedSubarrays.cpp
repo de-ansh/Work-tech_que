@@ -1,3 +1,5 @@
+#include <bits/sdtc++.h>
+using namespace std;
 void merge(vector<int> &arr, int endIndex) {
    int subarr1Current = 0, subarr2Current = endIndex + 1;
    vector<int> ans;
