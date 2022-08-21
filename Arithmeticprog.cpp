@@ -12,3 +12,4 @@ bool isArithmeticSequence(vector<int> &arr) {
    }
    return true;
 }
+
